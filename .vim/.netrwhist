@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/ophir/af83/MAP-editor/app/assets/javascripts'
+let g:netrw_dirhist_2='/home/ophir/af83/MAP-editor/app/assets/javascripts/models'
+let g:netrw_dirhist_3='/home/ophir/af83/MAP-editor/app/assets/javascripts/models/creation'
