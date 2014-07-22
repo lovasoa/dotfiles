@@ -14,6 +14,8 @@ nnoremap <f2> :NERDTreeToggle<cr>
 nnoremap <f3> :BufExplorer<cr>
 nnoremap <f4> :Unite -start-insert file_rec<cr>
 
+let &colorcolumn=81
+
 set autoindent
 set nocompatible
 set tabstop=2
