@@ -16,6 +16,7 @@ nnoremap <f4> :Unite -start-insert file_rec<cr>
 
 let &colorcolumn=81
 
+set noswapfile
 set autoindent
 set nocompatible
 set tabstop=2
